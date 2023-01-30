@@ -1,2 +1,8 @@
-package com.di;public class CardService {
+package com.di;
+
+public class CardService {
+
+    @Inject
+    CardRepository cardRepository;
+
 }

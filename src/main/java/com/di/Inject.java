@@ -1,2 +1,8 @@
-package com.di;public @interface Inject {
+package com.di;
+
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+
+@Retention(RetentionPolicy.RUNTIME)
+public @interface Inject {
 }

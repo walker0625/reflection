@@ -1,2 +1,5 @@
-package com.di;public class CardRepository {
+package com.di;
+
+public class CardRepository {
+
 }

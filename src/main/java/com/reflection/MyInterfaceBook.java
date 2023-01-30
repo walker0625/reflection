@@ -1,2 +1,4 @@
-package com.reflection;public interface MyInterfaceBook {
+package com.reflection;
+
+public interface MyInterfaceBook {
 }

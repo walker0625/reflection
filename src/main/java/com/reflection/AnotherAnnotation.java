@@ -1,2 +1,4 @@
-package com.reflection;public @interface AnotherAnnotation {
+package com.reflection;
+
+public @interface AnotherAnnotation {
 }
